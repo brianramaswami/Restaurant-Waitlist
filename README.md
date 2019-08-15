@@ -1,1 +1,1 @@
-# HotRestaurant
+# Restaurant Waitlist API
